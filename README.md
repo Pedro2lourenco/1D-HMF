@@ -75,39 +75,6 @@ Properties of the initialization:
 - rescaling of momenta to match the desired **initial energy density**
 - removal of center-of-mass momentum
 
----
-
-# Observables
-
-The following quantities can be measured during the simulation:
-
-### Kinetic Energy
-
-$$
-K = \frac{1}{2N}\sum_i p_i^2
-$$
-
-### Potential Energy
-
-$$
-V = \frac{1}{2}(1 - M^2)
-$$
-
-### Total Energy
-
-$$
-H = K + V
-$$
-
-### Magnetization (Order Parameter)
-
-$$
-M = \sqrt{M_x^2 + M_y^2}
-$$
-
-Magnetization acts as the **order parameter of the phase transition** in the HMF model.
-
----
 
 # Requirements
 
