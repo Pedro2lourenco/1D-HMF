@@ -18,9 +18,9 @@ $$
 
 Where:
 
-- \( \theta_i \) — angular position of rotor \(i\)
-- \( p_i \) — momentum of rotor \(i\)
-- \(N\) — number of particles
+- $$\theta_i$$ — angular position of rotor \(i\)
+- $$p_i$$ — momentum of rotor \(i\)
+- $$N$$ — number of particles
 
 The potential energy can be written in terms of the **magnetization vector**
 
